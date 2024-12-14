@@ -13,7 +13,7 @@ Mtk drivers
 
 python (python.org)
 
-This program is designed to remove FRP only if you have forgotten your Google account password and does not support if you want to hack someone's phone. Also, I am not responsible for your data (they will be deleted) and for your actions with the phone. 
+I am not responsible for your data (they will be deleted) and for your actions with the phone. 
 Thank you for understanding
 
 
@@ -42,7 +42,7 @@ python (python.org)
 
 
 
-Эта программа предназначена для удаления FRP только в том случае, если вы забыли пароль своей учетной записи Google, и не поддерживает, если вы хотите взломать чей-то телефон. Также я не несу ответственности за ваши данные (они будут удалены) и за ваши действия с телефоном. 
+я не несу ответственности за ваши данные (они будут удалены) и за ваши действия с телефоном. 
 Спасибо за понимание
 
 # инструкция по использованию:
