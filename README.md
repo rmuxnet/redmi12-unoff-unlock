@@ -1,5 +1,5 @@
-# redmi-12-fire-frp_remove
-remove frp programm for redmi 12
+# redmi-12-fire-unlocker
+unlock programm for redmi 12
 
 # en
 
