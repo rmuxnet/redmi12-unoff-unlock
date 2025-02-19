@@ -1,0 +1,7 @@
+requests
+wheel
+pyusb
+pycryptodome
+colorama
+usb
+libusb1
