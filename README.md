@@ -1,57 +1,53 @@
-# redmi-12-fire-unlocker
-unlock programm for redmi 12
+# Redmi 12 Fire/Heat Unlocker
 
-# en
+Unlock program for Redmi 12 Fire/Heat devices.
 
-supported devices: redmi 12 fire or heat
+---
 
-required programs for work: USBdk(https://github.com/daynix/usbdk/releases)
+## English Version
 
-LibUsb: https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/1.2.7.3/
+### Supported Devices
+- Redmi 12 Fire
+- Redmi 12 Heat
 
-Mtk drivers
+### Required Software
+- **USBdk** – [Download](https://github.com/daynix/usbdk/releases)
+- **LibUsb** – [Download](https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/1.2.7.3/)
+- **MTK Drivers**
+- **Python** – [Download](https://python.org)
 
-python (python.org)
+> **Disclaimer:** I am not responsible for your data (they will be deleted) or for any actions performed on your phone. Thank you for understanding.
 
-I am not responsible for your data (they will be deleted) and for your actions with the phone. 
-Thank you for understanding
-
-
-# instructions for use:
-
-open program and click install dependencies
-
-hold down 3 buttons on your phone and select the MTK port device in the Filter Wizard and click Install. Next in the program, click Unlock and hold down 3 buttons on the phone.
-there will be several stages (4) after completing 1, you need to disconnect the phone cable and press the button for the next stage and again hold down 3 buttons
-
-also if there are errors when starting the phone, go to recovery and format it
-
-donate - https://boosty.to/xetob/donate
-
-# ru
-
-поддерживаемые устройства: Redmi 12 Fire или Heat
-
-необходимые программы для работы: USBdk (https://github.com/daynix/usbdk/releases)
-
-LibUsb: https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/1.2.7.3/
-
-Драйверы МТК
-
-python (python.org)
+### Instructions for Use
+1. Open the program and click **Install Dependencies**.
+2. On your phone, press and hold the three designated buttons.
+3. In the Filter Wizard, select the **MTK Port** device and click **Install**.
+4. In the program, click **Unlock** and press the three buttons on your phone again.
+5. The unlocking process consists of several stages (4 in total). After completing the first stage, disconnect the phone cable, press the button for the next stage, and press the three buttons again.
+6. If errors occur during startup, enter Recovery mode and perform a format.
 
 
+---
 
-я не несу ответственности за ваши данные (они будут удалены) и за ваши действия с телефоном. 
-Спасибо за понимание
+## Русская версия
 
-# инструкция по использованию:
+### Поддерживаемые устройства
+- Redmi 12 Fire
+- Redmi 12 Heat
 
-откройте программу и нажмите install dependencies
+### Необходимые программы
+- **USBdk** – [Скачать](https://github.com/daynix/usbdk/releases)
+- **LibUsb** – [Скачать](https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/1.2.7.3/)
+- **Драйверы МТК**
+- **Python** – [Скачать](https://python.org)
 
-зажмите 3 кнопки на телефоне и выбирете в Filter Wizard устройство MTK port и нажмите Install. Дальше в программе нажмите Unlock и зажмите 3 кнопки на телефоне. Также
-будет несколько стадий (4) после завершения 1 надо отключить телефон и нажать на кнопку следующий стадии и опять зажимать 3 кнопки
+> **Отказ от ответственности:** Я не несу ответственности за ваши данные (они будут удалены) и за ваши действия с телефоном. Спасибо за понимание.
 
-также если при запуске телефона будут ошибки зайдите в рекавари и сделайте форматирование
+### Инструкция по использованию
+1. Откройте программу и нажмите **Install Dependencies**.
+2. На телефоне зажмите 3 кнопки.
+3. В Filter Wizard выберите устройство **MTK Port** и нажмите **Install**.
+4. Далее, в программе нажмите **Unlock** и снова зажмите 3 кнопки на телефоне.
+5. Процесс состоит из нескольких стадий (всего 4 стадии). После завершения первой стадии отключите кабель телефона, нажмите кнопку для перехода к следующей стадии и снова зажмите 3 кнопки.
+6. Если при запуске телефона возникают ошибки, перейдите в Recovery и выполните форматирование.
 
-donate - https://boosty.to/xetob/donate
